@@ -25,8 +25,8 @@ Space & i::Send "{Up}"
 Space & l::Send "{Right}"
 
 ; Additional combos:
-Space & n::Send "{Home}"
-Space & m::Send "{End}"
+Space & m::Send "{Home}"
+Space & .::Send "{End}"
 Space & y::Send "{PgUp}"
 Space & h::Send "{PgDn}"
 Space & u::Send "^{Left}"    ; skip to previous word
